@@ -1,10 +1,11 @@
+
+
 - 👋 Hi, I’m @Devodry
-- 👀 I’m interested in learning machine learning and coding in Python
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning Python and machine learning
-- 💞️ I’m looking to collaborate on any advice would be helpful
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am a chemical engineer during the day and completely new to attempting to code
+- 💞️ I’m looking to collaborate and any advice would be helpful
+- 📫 How to reach me devodry@gmail.com
+- ⚡ Fun fact: I am a mild mannered chemical engineer by day
 
 <!---
 Devodry/Devodry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
